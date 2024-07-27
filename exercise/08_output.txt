@@ -1,0 +1,5 @@
+Angka: 12
+Angka: 13
+Angka: 141
+Angka: 15
+Angka: 16
